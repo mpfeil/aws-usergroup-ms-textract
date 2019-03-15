@@ -1,0 +1,23 @@
+{
+  "name": "aws-usergroup-ms-textract",
+  "version": "1.0.0",
+  "description": "Talk about Textract for AWS Usergroup Münsterland",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/cleaver textract-introduction.md",
+    "watch": "./node_modules/.bin/cleaver watch textract-introduction.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpfeil/aws-usergroup-ms-textract.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mpfeil/aws-usergroup-ms-textract/issues"
+  },
+  "homepage": "https://github.com/mpfeil/aws-usergroup-ms-textract#readme",
+  "dependencies": {
+    "cleaver": "^0.8.7"
+  }
+}
