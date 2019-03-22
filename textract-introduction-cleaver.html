@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-  <title>AWS Textract</title>
+  <title>Untitled</title>
   <style type="text/css">
     body {
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -356,307 +356,20 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
   font-weight: bold;
 }
 
-body {
-  background-color: #222;
-  color: #eee;
-}
-
-h1, h3 {
-  font-family: Impact;
-  font-weight: bold;
-  font-style: italic;
-}
-
-pre code {
-  color: #ccc;
-  font-size: 140%;
-}
-
-.slide {
-  background-color: inherit;
-}
-
-.keyword {
-  color: #0086b3 !important;
-  font-weight: inherit !important;
-}
-
-.tag {
-  color: #900 !important;
-}
-
-code {
-  background-color: inherit;
-}
-
-em {
-  border-bottom: 1px solid #666;
-}
 
   </style>
+    <script async src="http://localhost:35729/livereload.js"></script>
 </head>
 <body>
     <div class="progress">
     <div class="progress-bar"></div>
   </div>
 
-  <div class="slide " id="slide-1">
-    <section class="slide-content"><h1 id="using-aws-textract">Using AWS Textract</h1>
-<h2 id="easily-extract-text-and-data-from-virtually-any-document">Easily extract text and data from virtually any document</h2>
-</section>
+
+  <div class="controls">
+    <div class="arrow prev"></div>
+    <div class="arrow next"></div>
   </div>
-  <div class="slide hidden " id="slide-2">
-    <section class="slide-content"><h3 id="amazon-textract">Amazon Textract</h3>
-<ul>
-<li><p>announced at <a href="https://t3n.de/news/dokumente-digitalisieren-aws-1129192/">Re:invent 2018</a></p>
-</li>
-<li><p>combines ML (Maschine Learning) &amp; OCR (Optical Character Recognition) to extract text and data from documents</p>
-</li>
-<li><p>still in Preview and available in <code>US East (N. Virginia)</code>, <code>US East (Ohio)</code>, <code>US West (Oregon)</code> and <code>EU (Ireland)</code></p>
-</li>
-</ul>
-</section>
-  </div>
-  <div class="slide hidden " id="slide-3">
-    <section class="slide-content"><h3 id="processing-of-documents-today">Processing of documents today</h3>
-<ul>
-<li><p>Manual processing</p>
-</li>
-<li><p>Optical Character Recognition (OCR)</p>
-</li>
-<li><p>Rules and template-based extraction</p>
-</li>
-</ul>
-</section>
-  </div>
-  <div class="slide hidden " id="slide-4">
-    <section class="slide-content"><h3 id="today-s-challenges-manual-processing-">Today´s challenges (Manual processing)</h3>
-<ul>
-<li>time-consuming</li>
-<li>error-prone</li>
-<li>expensive</li>
-</ul>
-<center style="padding-top: 0px;">
-  <img src="example/input/manual.JPG" width="100%">
-</center></section>
-  </div>
-  <div class="slide hidden " id="slide-5">
-    <section class="slide-content"><h3 id="today-s-challenges-ocr-">Today´s challenges (OCR)</h3>
-<ul>
-<li>error-prone</li>
-<li>no multi-column</li>
-<li>no rotated text</li>
-<li>reads left to right</li>
-</ul>
-<center style="padding-top: 10px;">
-  <img src="example/input/multicolumn.JPG" width="100%">
-</center>
-
-<p>Output:
-<code>Extract data quickly &amp; No code templates to accurately maintain</code></p>
-</section>
-  </div>
-  <div class="slide hidden " id="slide-6">
-    <section class="slide-content"><h3 id="today-s-challenges-rules-and-template-based-">Today´s challenges (Rules and template-based)</h3>
-<ul>
-<li>varieties of documents</li>
-<li>limited by OCR (accuracy)</li>
-<li>development of templates</li>
-</ul>
-<center style="padding-top: 10px;">
-  <img src="example/input/w2tax.JPG" width="100%">
-</center></section>
-  </div>
-  <div class="slide hidden " id="slide-7">
-    <section class="slide-content"><h3 id="feature-text-extraction-ocr-">Feature - Text Extraction (OCR++)</h3>
-<center style="padding-top: 50px;">
-  <img src="images/ocr.JPG" width="100%">
-</center>
-
-<p>Blocks: <code>PAGE</code>, (<code>PARAGRAPH</code>), <code>LINE</code>, <code>WORD</code></p>
-<center style="padding-top: 50px;">
-  <img src="example/input/justtext.JPG" width="100%">
-</center></section>
-  </div>
-  <div class="slide hidden " id="slide-8">
-    <section class="slide-content"><h3 id="feature-key-value-pair-extraction">Feature - Key-Value Pair Extraction</h3>
-<center style="padding-top: 50px;">
-  <img src="images/kvpextraction.JPG" width="100%">
-</center>
-
-<p>Blocks: <code>PAGE</code>, <code>KEY_VALUE_SET</code></p>
-<p>Each <code>Block</code> contains:</p>
-<ul>
-<li>Field name (key) and field value (value)</li>
-<li>Confidence score</li>
-<li>Block relationships</li>
-</ul>
-</section>
-  </div>
-  <div class="slide hidden " id="slide-9">
-    <section class="slide-content"><h3 id="feature-table-extraction">Feature - Table Extraction</h3>
-<center style="padding-top: 50px;">
-  <img src="images/tableextraction.JPG" width="100%">
-</center>
-
-<p>Blocks (Output): <code>PAGE</code>, <code>TABLE</code>, <code>CELL</code></p>
-<p>Each <code>Block</code> contains:</p>
-<ul>
-<li>Text</li>
-<li>Confidence score</li>
-<li>Block relationships (e.g. cell and row)</li>
-</ul>
-</section>
-  </div>
-  <div class="slide hidden " id="slide-10">
-    <section class="slide-content"><h3 id="api-sync-async-">API (Sync &amp; Async)</h3>
-<h4 id="synchronous">Synchronous</h4>
-<center>
-  <img src="example/input/sync.JPG" width="100%">
-</center>
-
-<h4 id="asynchronous">Asynchronous</h4>
-<center>
-  <img src="example/input/async.JPG" width="100%">
-</center></section>
-  </div>
-  <div class="slide hidden " id="slide-11">
-    <section class="slide-content"><h3 id="examples-1-textract">Examples (1) - Textract</h3>
-<center style="padding-top: 50px;">
-  <img src="example/output/serveimage.jpg-output.jpg" width="100%">
-</center></section>
-  </div>
-  <div class="slide hidden " id="slide-12">
-    <section class="slide-content"><h3 id="example-2-textract-json-format">Example (2) - Textract JSON format</h3>
-<pre><code class="lang-json">{
-  &quot;Geometry&quot;: {
-      &quot;BoundingBox&quot;: {...},
-      &quot;Polygon&quot;: [...]
-  },
-  &quot;Relationships&quot;: [
-      {
-          &quot;Type&quot;: &quot;CHILD&quot;,
-          &quot;Ids&quot;: [
-              &quot;42fbb5b5-70a4-487c-bd14-474b21ff361b&quot;,
-              &quot;79456e5b-66b9-4c8d-8d9f-60010df23ba1&quot;,
-              ...
-          ]
-      }
-  ],
-  &quot;BlockType&quot;: &quot;TABLE&quot;,
-  &quot;Confidence&quot;: 75.16709899902344,
-  &quot;Id&quot;: &quot;7f056267-5222-46fe-9912-3203f4ff991e&quot;
-},
-</code></pre>
-</section>
-  </div>
-  <div class="slide hidden " id="slide-13">
-    <section class="slide-content"><h3 id="example-3-tesseract">Example (3) - Tesseract</h3>
-<pre><code class="lang-bash">tesseract serveimage.jpg out
-</code></pre>
-<pre><code class="lang-text">‘a Employee&#39;s social security number
-123-45-6789
-
-b Employer identification number (EIN)
-11-2233445
-
-
-
-
-Safe, accurate,
-OMB No. 1545-0008 FAST! Use
-
-
-
-
-
-¢ Employer&#39;s name, address, and ZIP code
-
-The Big Company
-123 Main Street
-Anywhere, PA 12345
-
-‘3 Social security wages
-
-+ file
-7 Wages, tips, other compensation] 2 Federal income tax withheld
-48,500.00 6,835.00
-</code></pre>
-</section>
-  </div>
-  <div class="slide hidden " id="slide-14">
-    <section class="slide-content"><h3 id="ml-dl-1-">ML &amp; DL (1)</h3>
-<h4 id="different-sizes">Different sizes</h4>
-<center style="padding-top: 50px;">
-  <img src="example/input/tablesize.JPG" width="100%">
-</center></section>
-  </div>
-  <div class="slide hidden " id="slide-15">
-    <section class="slide-content"><h3 id="ml-dl-2-">ML &amp; DL (2)</h3>
-<h4 id="associations">Associations</h4>
-<center style="padding-top: 50px;">
-  <img src="example/input/kv_ml.JPG" width="100%">
-</center></section>
-  </div>
-  <div class="slide hidden " id="slide-16">
-    <section class="slide-content"><h3 id="ml-dl-3-">ML &amp; DL (3)</h3>
-<h4 id="infer-values">Infer values</h4>
-<center style="padding-top: 50px;">
-  <img src="example/input/nullvalues.JPG" width="100%">
-</center></section>
-  </div>
-  <div class="slide hidden " id="slide-17">
-    <section class="slide-content"><h3 id="costs">Costs</h3>
-<center style="padding-top: 50px;">
-</center>
-
-<table>
-<thead>
-<tr>
-<th></th>
-<th style="text-align:center">First 1M pages/month</th>
-<th style="text-align:right">1M+ pages/month</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Text Extraction</td>
-<td style="text-align:center">$0.0015</td>
-<td style="text-align:right">$0.0006</td>
-</tr>
-<tr>
-<td>Table Extraction*</td>
-<td style="text-align:center">$0.015</td>
-<td style="text-align:right">$0.01</td>
-</tr>
-<tr>
-<td>Key-Value Extraction*</td>
-<td style="text-align:center">$0.05</td>
-<td style="text-align:right">$0.04</td>
-</tr>
-<tr>
-<td>All*</td>
-<td style="text-align:center">$0.065</td>
-<td style="text-align:right">$0.05</td>
-</tr>
-</tbody>
-</table>
-<p>*OCR included</p>
-</section>
-  </div>
-  <div class="slide hidden author-slide" id="slide-18">
-    <section class="slide-content"><div class="author">
-  <h1 class="name">Matthias Pfeil</h1>
-    <h3 class="twitter">
-      <a href="http://twitter.com/@matpfe">@matpfe</a>
-    </h3>
-    <h3 class="github">
-      <a href="https://github.com/mpfeil">mpfeil</a>
-    </h3>
-</div>
-</section>
-  </div>
-
 
 
   <script type="text/javascript">

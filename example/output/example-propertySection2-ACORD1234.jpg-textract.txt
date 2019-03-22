@@ -1,0 +1,346 @@
+Key/Value: FRONT EXPOSURE A DISTANCE / 
+Key/Value: BUROLAR ALARM INATALLED AND SERVICED BY / acacz2c
+Key/Value: PREMISES FRE PROTECTION (Sorinkisrs Standpipes, c02/Chemioal Byetemg) / C02/Halon
+Key/Value: EXTENT / 5678
+Key/Value: TOTAL AREA / 2000
+Key/Value: CONSTRUCTION / Metal/alum siding
+Key/Value: BUROLAR ALARN TYPE / Hold-Up
+Key/Value: YES / 
+Key/Value: OF / 
+Key/Value: PAYMENT PLAN / Bi-Monthly
+Key/Value: BPRNK / 65
+Key/Value: ROOB TYPE / Asbestos
+Key/Value: LIMIT / $ 100,000
+Key/Value: QUARDA/WATCHMEN / 12
+Key/Value: REAR EXPOSURE S DISTANCE / Coffee Shop
+Key/Value: YR BUILT / 1997
+Key/Value: CENTRAL STATION / 
+Key/Value: DEDUCTIBLE / $1.000
+Key/Value: SUB CODE:Z / 2
+Key/Value: OTHER OCCUPANCIES / Other occ test
+Key/Value: PROT CL / 4
+Key/Value: BUILDING: / 1
+Key/Value: RES STIVI / 
+Key/Value: YES / 
+Key/Value: EFFECTIVE DATE / 4/9/2007
+Key/Value: RIGHT EXPOSURE S DIBTANCE / Office
+Key/Value: FLUMEING YR: / 
+Key/Value: LEFT EXPOSURE DISTANCE / 10
+Key/Value: NO / 
+Key/Value: ROOFING YR1990 / 
+Key/Value: GRADE / 91
+Key/Value: #EASMTS / 
+Key/Value: FIRE ALARM MANUFACTURER / ABC Pixe Alarms, Inc
+Key/Value: DISTANCET / HYDRANT FIRE STAT 100 5
+Key/Value: HEATING. YR / 
+Key/Value: EXPIRATION DATE / 07/08/09
+Key/Value: CERTIFICATE REQUIRED / 
+Key/Value: OTHER / 
+Key/Value: TAX CODE / 
+Key/Value: ETIVE / 
+Key/Value: WIRING YR:1990 / 
+Key/Value: #ATORIES / 1
+Key/Value: NO / 
+Key/Value: Icentxal / 
+Key/Value: PHONE Exti / (425)402-1000 31234
+Key/Value: DIRECT BILL / 
+Key/Value: EXPIRATION DATE / 4/9/2008
+Key/Value: Test Town / 54321
+Key/Value: GONG / 
+Key/Value: FIRE DISTRICTICODE NUMBER / King County
+Key/Value: OTHER: / 
+Key/Value: NC / 
+Key/Value: NO / 
+Key/Value: BLDO .GODE / A
+Key/Value: FOR COMPANY USE ONLY / 
+Key/Value: YES / 
+Key/Value: YES / X
+Key/Value: CLOCK HOURLY / 
+Key/Value: AUDIT / A
+Key/Value: Nol / (425)145-4578 31245
+Key/Value:  / 
+Key/Value: OTHER / 
+Key/Value: DESCRIPTION OF PROPERTY COVERED / Spoilage Business -
+Key/Value: AGENG / 00000041
+Key/Value: LOCATION / 1
+Key/Value: DATEIMMIDDIYYYY / 4/30/2007
+Key/Value: Bothell / 
+Key/Value: WA / 98011
+Line: ACORD
+Line: PROPERTY SECTION
+Line: DATEIMMIDDIYYYY
+Line: 4/30/2007
+Line: ABENCY
+Line: PHONE
+Line: Exti
+Line: (425)402-1000 31234
+Line: APPLICANT
+Line: IFret
+Line: Pat Wilson
+Line: Nol
+Line: (425)145-4578 31245
+Line: Named
+Line: insuredl
+Line: AMS Insurance Agency
+Line: 11831 North Creek Parkway N
+Line: EFFECTIVE DATE
+Line: EXPIRATION DATE
+Line: DIRECT BILL
+Line: PAYMENT PLAN
+Line: AUDIT
+Line: Suite 200
+Line: 4/9/2007
+Line: 4/9/2008
+Line: AGENCY BLL
+Line: Bi-Monthly
+Line: A
+Line: Bothell
+Line: WA
+Line: 98011
+Line: FOR
+Line: COMPANY
+Line: CODE:y
+Line: SUB CODE:Z 2
+Line: USE ONLY
+Line: AGENG
+Line: 00000041
+Line: PREMISES # 1
+Line: STREET ADDRESS: 1234 Elm St.
+Line: PREMISES INFORMATION
+Line: BUILDING #: 1
+Line: BLDG DESCRIPTION:
+Line: UBJECT OF INSURANCE
+Line: AMOUNT
+Line: COIN2 %
+Line: ATION
+Line: CAUSES OF LO2S OF
+Line: DED
+Line: APpUe
+Line: FORMS AND CONDITIONS TO OAPPLY
+Line: Stock Stored in the
+Line: Flood
+Line: 1,000
+Line: Open
+Line: 10,000
+Line: 10
+Line: ACV
+Line: 10
+Line: Stock Stored in the
+Line: Sewer or
+Line: 1,500
+Line: Open
+Line: 150,000
+Line: 15
+Line: ACV
+Line: Drain Backup
+Line: 15
+Line: Stock Stored in the
+Line: BI Ordinary
+Line: ,750
+Line: Open
+Line: 175,000
+Line: ACV
+Line: Payroll
+Line: Veterinarian Animal
+Line: -
+Line: Theft
+Line: 2,000
+Line: Coverage
+Line: 20,000
+Line: 20
+Line: ACV
+Line: extensio
+Line: 20
+Line: Veterinarian Kennel
+Line: -
+Line: Theft
+Line: 3,000
+Line: Operator
+Line: 30,000
+Line: 30
+Line: ACw
+Line: extension
+Line: 30
+Line: Building
+Line: Larthquake
+Line: 4,000
+Line: 40,000
+Line: 40
+Line: ACV
+Line: (C)
+Line: 40
+Line: ADDITIONALINFORMATION
+Line: X
+Line: BUDINES INCOME EXTRA EXPENSE Ataot ACORD
+Line: X
+Line: VALUE REPORTING INFORMATION Ataot ACORD 811
+Line: ADDITIONAL COVERAGES OPTIONS, RESTRICTIONS. ENDORSEMENTS AND RATING INFORMATION
+Line: BPOLLAGE COVERAOE
+Line: DESCRIPTION OF PROPERTY COVERED
+Line: LIMIT
+Line: DEDUCTIBLE
+Line: REFRIG MAINT AOREEMENT
+Line: OF
+Line: YES
+Line: NO
+Line: Spoilage Business
+Line: -
+Line: $
+Line: 100,000
+Line: $1.000
+Line: YES
+Line: NO
+Line: Loc 1, Bldg 1, Additional Coverage Notes Test
+Line: #OF OPEN SIDES ON ON STRUCTURE:
+Line: CONSTRUCTION
+Line: DISTANCET
+Line: FIRE DISTRICTICODE NUMBER
+Line: PROT CL
+Line: #ATORIES
+Line: #EASMTS
+Line: YR BUILT
+Line: TOTAL AREA
+Line: HYDRANT
+Line: FIRE
+Line: STAT
+Line: Metal/alum siding
+Line: 100
+Line: 5
+Line: King County
+Line: 432
+Line: 4
+Line: 1
+Line: 1997
+Line: 2000
+Line: BUILDING IMPROVEMENTS
+Line: BLDO .GODE
+Line: TAX CODE
+Line: ROOB TYPE
+Line: OTHER OCCUPANCIES
+Line: A
+Line: WIRING YR:1990
+Line: Asbestos
+Line: Other occ test
+Line: FLUMEING YR:
+Line: ROOFING YR1990
+Line: HEATING. YR
+Line: WIND CLASA
+Line: HEATING BOILER ON PREMISES?
+Line: X
+Line: YES
+Line: NO
+Line: OTHER
+Line: YE
+Line: RES STIVI
+Line: ETIVE
+Line: OTHER
+Line: IF FYES IS NSURANCE FLACED ELSEWHERET
+Line: YES
+Line: NC
+Line: RIGHT EXPOSURE S DIBTANCE
+Line: LEFT EXPOSURE DISTANCE
+Line: FRONT EXPOSURE A DISTANCE
+Line: REAR EXPOSURE S DISTANCE
+Line: Office
+Line: 10
+Line: Restauxant
+Line: 10
+Line: Coffee Shop
+Line: 10
+Line: BUROLAR ALARN TYPE
+Line: CERTIFICATE#
+Line: EXPIRATION DATE
+Line: X
+Line: CENTRAL STATION
+Line: Hold-Up
+Line: 1234
+Line: 07/08/09
+Line: WTH KEYS
+Line: BUROLAR ALARM INATALLED AND SERVICED BY
+Line: EXTENT
+Line: GRADE
+Line: QUARDA/WATCHMEN
+Line: CLOCK HOURLY
+Line: acacz2c
+Line: 5678
+Line: 91
+Line: 12
+Line: Icentxal
+Line: PREMISES FRE PROTECTION (Sorinkisrs Standpipes, c02/Chemioal Byetemg)
+Line: BPRNK
+Line: FIRE ALARM MANUFACTURER
+Line: CENTRAL STATION
+Line: C02/Halon
+Line: 65
+Line: ABC Pixe Alarms, Inc
+Line: GONG
+Line: ADDITIONAL INTERESTS
+Line: RANK
+Line: NAME AND ADDRES&:
+Line: REFERENCE #:987654321
+Line: CERTIFICATE REQUIRED
+Line: INTEREST N TEMNUMBER
+Line: INTEREST
+Line: Test Loss Payee
+Line: LOCATION 1
+Line: BUILDING: 1
+Line: Test Loss Payee Paxkway
+Line: SCHEDULED IEM NUMEER:
+Line: Test Town
+Line: WA
+Line: 54321
+Line: OTHER:
+Line: ITEM DESCRIP TION
+Line: ACORD 140 (2007/01)
+Line: ATTACH TO ACORD 125
+Line: ORD CORPORATION 1985-2007. AI rights served.
+Line: INS140 (200701)
+Line: The ACORD name and logo are registered marks of ACORD
+Cell: UBJECT OF INSURANCE
+Cell: AMOUNT
+Cell: COIN2 %
+Cell: ATION
+Cell: CAUSES OF LO2S OF
+Cell: DED
+Cell: APpUe
+Cell: FORMS AND CONDITIONS TO OAPPLY
+Cell: Stock Stored in the Open
+Cell: 10,000
+Cell: 10
+Cell: ACV
+Cell: Flood
+Cell: 10
+Cell: 1,000
+Cell: Stock Stored in the Open
+Cell: 150,000
+Cell: 15
+Cell: ACV
+Cell: Sewer or Drain Backup
+Cell: 15
+Cell: 1,500
+Cell: Stock Stored in the Open
+Cell: 175,000
+Cell: ACV
+Cell: BI Ordinary Payroll
+Cell: ,750
+Cell: Veterinarian Animal - Coverage
+Cell: 20,000
+Cell: 20
+Cell: ACV
+Cell: Theft extensio
+Cell: 20
+Cell: 2,000
+Cell: Veterinarian Kennel - Operator
+Cell: 30,000
+Cell: 30
+Cell: ACw
+Cell: Theft extension
+Cell: 30
+Cell: 3,000
+Cell: Building
+Cell: 40,000
+Cell: 40
+Cell: ACV
+Cell: Larthquake (C)
+Cell: 40
+Cell: 4,000

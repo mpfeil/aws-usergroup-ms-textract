@@ -1,0 +1,241 @@
+Key/Value: CONTACT NAME / Missy Mi itchell
+Key/Value: AUTHORIZED REPRESENTAT TIVE / 
+Key/Value: FAX No) / (800
+Key/Value: ALL OWNED WTOS / 
+Key/Value: ANY AUTO / 
+Key/Value: INSURER B / 
+Key/Value: SCHEDULED AUTOS NON-OWNED / 
+Key/Value: PHONE Ext: / (800) 814-2122
+Key/Value: DED / 
+Key/Value: OCCUR / X
+Key/Value: BODIL INJURY (Per person) / s
+Key/Value: INSURER / F :
+Key/Value: DAVAGE TOS RENTED secuurreaee) / s 100,000
+Key/Value: MED EXP (Any one person) / s 10,000
+Key/Value: CLAIMS-MADE / 
+Key/Value: EACH OCCURRENCE / s 1,000,000
+Key/Value: HIRED / X
+Key/Value: PRODUCT COMPIOP AGG / s 2,000,000
+Key/Value: AGGREGATE / s 15,000,000
+Key/Value: EACH OCCURRENCE / s 15,000,000
+Key/Value: UMBRELLA / X
+Key/Value: BODIL INJURY (Per accident) / s
+Key/Value: LOC / 
+Key/Value: Medical payments / 5,000
+Key/Value: POLICY / 
+Key/Value: GENERAL AGGREGATE / s 2,000,000
+Key/Value: SINGL LIMIT (Ea accident) / s 1,000,000
+Key/Value: CLAIMS-MADE / 
+Key/Value: COMMERCIAL GENERAL LIABILITY / 
+Key/Value: PERSONAL &ADV INJURY & INJURY / s 1,000,000
+Key/Value: INSURER E / 
+Key/Value: Box / South Bend
+Key/Value: OTHER / 
+Key/Value: Emolovee Benefits / s 1,000,000
+Key/Value:  / 
+Key/Value: IN / 46601-017
+Key/Value: PROPERTY DAMAGE (Per pogidlent) / s
+Key/Value: New / Paris
+Line: CERTIFICATE OF LIABILITY INSURANCE
+Line: (MM/DD/YYYY)
+Line: 9/9/2015
+Line: THIS CERTIFICATE IS ISSUED AS A MATTER OF INFORMATION ONLY AND CONFERS NO RIGHTS UPON THE CERTIFICATE HOLDER. THIS
+Line: CERTIFICATE DOES NOT AFFIRMATIVELY OR NEGATIVELY AMEND, EXTEND OR ALTER THE COVERAGE AFFORDED BY THE POLICIES
+Line: BELOW. THIS CERTIFICATE OF INSURANCE DOES NOT CONSTITUTE A CONTRACT BETWEEN THE ISSUING INSURER(S), AUTHORIZED
+Line: REPRESENTATIVE OR PRODUCER AND THE CERTIFICATE HOLDER.
+Line: IMPORTANT: If the certificate holder is an ADDITIONAL INSURED, the policy(ies) must be endorsed SUBROGATION WAIVED, subject to
+Line: the terms and conditions of the policy, certain policies may require an endorsement. A statement on this certificate does not confer rights to the
+Line: certificate holder in lieu of such endorsement(s).
+Line: PRODUCER
+Line: CONTACT Missy Mi itchell
+Line: NAME
+Line: Gibson Insurance Agency, Inc.
+Line: PHONE
+Line: (800) 814-2122
+Line: FAX
+Line: Ext:
+Line: No)
+Line: (800
+Line: 130 s Main st, ste 400
+Line: ADDRESS
+Line: mmi tche ibsoni com
+Line: c
+Line: PO Box 11177
+Line: INS FF COVERAGE
+Line: NAIC
+Line: South Bend
+Line: IN 46601-017
+Line: INSURER A Travelers Prop Cas Co of Amer
+Line: 25674
+Line: INSURED
+Line: INSURER B
+Line: Smart LLC dba Smart Cabinetry
+Line: INSURER c
+Line: 70680 County Road 23
+Line: INSURER D
+Line: INSURER E
+Line: New Paris
+Line: IN 46553
+Line: INSURER F :
+Line: COVERAGES
+Line: CERTIFICATE Liability
+Line: REVISION NUMBER:
+Line: THIS TO CERTIFY THAT THE POLICIES OF INSURANCE LISTED BELOW HAVE BEEN ISSUED TO THE INSURED NAMED ABOVE FOR THE POLICY PERIOD
+Line: INDICATED NOTWITHSTANDING ANY REQUIREMENT, TERM OR CONDITION OF ANY CONTRACT OR OTHER DOCUMENT WITH RESPECT TO WHICH THIS
+Line: CERTIFICATE MAY BE ISSUED OR MAY PERTAIN, THE INSURANCE AFFORDED BY THE POLICIES DESCRIBED HEREIN IS SUBJECT TO ALL THE TERMS.
+Line: EXCLUSIONS AND CONDITIONS OF SUCH POLICIES LIMITS SHOWN MAY HAVE BEEN REDUCED BY PAID CLAIMS.
+Line: ADOT SOBR
+Line: TYPE OF INSURANCE
+Line: INSD WD
+Line: POLICY NUMBER
+Line: POLICY EFE
+Line: LIMITS
+Line: COMMERCIAL GENERAL LIABILITY
+Line: EACH OCCURRENCE
+Line: s
+Line: 1,000,000
+Line: DAVAGE TOS RENTED
+Line: A
+Line: CLAIMS-MADE
+Line: OCCUR
+Line: secuurreaee)
+Line: s
+Line: 100,000
+Line: Property Damage &
+Line: Y6306F66216
+Line: 4/1/2015
+Line: 4/1/2016
+Line: MED EXP (Any one person)
+Line: s
+Line: 10,000
+Line: x Bodi Injury Included
+Line: PERSONAL &ADV INJURY & INJURY
+Line: s
+Line: 1,000,000
+Line: GENT AGGREGATI LIMIT APPLIES PEI
+Line: GENERAL AGGREGATE
+Line: s
+Line: 2,000,000
+Line: POLICY
+Line: LOC
+Line: PRODUCT COMPIOP AGG
+Line: s
+Line: 2,000,000
+Line: OTHER
+Line: Emolovee Benefits
+Line: s
+Line: 1,000,000
+Line: AUTOMOBILE LIABILITY
+Line: SINGL LIMIT
+Line: (Ea accident)
+Line: s
+Line: 1,000,000
+Line: BODIL INJURY (Per person)
+Line: s
+Line: A
+Line: ANY AUTO
+Line: ALL OWNED
+Line: SCHEDULED
+Line: WTOS
+Line: AUTOS
+Line: BAGE662165
+Line: 4/1/2015
+Line: 4/1/2016
+Line: BODIL INJURY (Per accident)
+Line: s
+Line: X
+Line: HIRED
+Line: X
+Line: NON-OWNED
+Line: PROPERTY DAMAGE
+Line: AUTOS
+Line: (Per pogidlent)
+Line: s
+Line: Medical payments
+Line: 5,000
+Line: X UMBRELLA
+Line: X
+Line: OCCUR
+Line: EACH OCCURRENCE
+Line: s
+Line: 15,000,000
+Line: A
+Line: EXCESS
+Line: CLAIMS-MADE
+Line: AGGREGATE
+Line: s
+Line: 15,000,000
+Line: DED
+Line: RETENTIONS
+Line: 10,000
+Line: 2: 69
+Line: 4/1/2015
+Line: 4/1/2016
+Line: s
+Line: WORKERS COMPENSATION
+Line: AND LOYERS LIABILITY
+Line: YIN
+Line: ANY PROPRIETORPARTNEREXECUTIVE
+Line: L
+Line: EACH ACCIDENT
+Line: NIA
+Line: 500,000
+Line: OF FI E EXCLUDED?
+Line: A
+Line: (Mandatory in NHY
+Line: 1
+Line: 4/1/2015
+Line: 4/1/2016
+Line: E.L
+Line: DISEASE EA EMPLOYEE s
+Line: 500,000
+Line: yes deseribe uander
+Line: TI OF R TIO below
+Line: E.L DISEASE ICY LIMIT
+Line: s
+Line: 500,000
+Line: DESCRIPTION OF OPERATIONS LOCATIONS VEHICLES (ACORD 101 Additional Remarks Schedule, may be attached more space is required)
+Line: CERTIFICATE HOLDER
+Line: CANCELLATION
+Line: SHOULC ANY OF THE ABOVE DESCRIBED POLICIES BE CANCELLED BEFORE
+Line: TO WHOM IT MAY CONCERN
+Line: THE EXPIRATION DATE THEREOF, NOTICE WILL BE DELIVERED IN
+Line: FOR INFORMATIONAL PURPOSES ONLY
+Line: ACCORDANCE WITH THE POLICY PROVISIONS.
+Line: AUTHORIZED REPRESENTAT TIVE
+Line: G Ins Agency/MISSY
+Line: 1988-2014 ACORD CORPORATION. All rights reserved.
+Line: ACORD 25 (2014/01)
+Line: The ACORD name and logo are registered marks of ACORD
+Line: INS025 (201401Y
+Cell: TYPE OF INSURANCE
+Cell: ADOT INSD
+Cell: SOBR WD
+Cell: POLICY NUMBER
+Cell: POLICY EFE
+Cell: LIMITS
+Cell: A
+Cell: COMMERCIAL GENERAL LIABILITY CLAIMS-MADE OCCUR Property Damage & x Bodi Injury Included GENT AGGREGATI LIMIT APPLIES PEI POLICY LOC OTHER
+Cell: Y6306F66216
+Cell: 4/1/2015
+Cell: 4/1/2016
+Cell: EACH OCCURRENCE s 1,000,000 DAVAGE TOS RENTED secuurreaee) s 100,000 MED EXP (Any one person) s 10,000 PERSONAL &ADV INJURY & INJURY s 1,000,000 GENERAL AGGREGATE s 2,000,000 PRODUCT COMPIOP AGG s 2,000,000 Emolovee Benefits s 1,000,000
+Cell: A
+Cell: AUTOMOBILE LIABILITY ANY AUTO ALL OWNED SCHEDULED WTOS AUTOS X HIRED X NON-OWNED AUTOS
+Cell: BAGE662165
+Cell: 4/1/2015
+Cell: 4/1/2016
+Cell: SINGL LIMIT (Ea accident) s 1,000,000 BODIL INJURY (Per person) s BODIL INJURY (Per accident) s PROPERTY DAMAGE (Per pogidlent) s Medical payments 5,000
+Cell: A
+Cell: X UMBRELLA X OCCUR EXCESS CLAIMS-MADE DED RETENTIONS 10,000
+Cell: 2: 69
+Cell: 4/1/2015
+Cell: 4/1/2016
+Cell: EACH OCCURRENCE s 15,000,000 AGGREGATE s 15,000,000 s
+Cell: A
+Cell: WORKERS COMPENSATION AND LOYERS LIABILITY YIN ANY PROPRIETORPARTNEREXECUTIVE OF FI E EXCLUDED? (Mandatory in NHY yes deseribe uander TI OF R TIO below
+Cell: NIA
+Cell: 1
+Cell: 4/1/2015
+Cell: 4/1/2016
+Cell: L EACH ACCIDENT 500,000 E.L DISEASE EA EMPLOYEE s 500,000 E.L DISEASE ICY LIMIT s 500,000

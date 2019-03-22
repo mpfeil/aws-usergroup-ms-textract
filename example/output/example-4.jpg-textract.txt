@@ -1,0 +1,237 @@
+Key/Value: SCHEOL AUTOS / 
+Key/Value: DEDUCTIBLE / 
+Key/Value: AUTHORIZED REPRESENTATIVE / 
+Key/Value: AL OWINED AUTOS / 
+Key/Value: CLAIMES MADE / 
+Key/Value: NON-OWINED A AUTOS / 
+Key/Value: INSURER D / 
+Key/Value: INSURER / XYZ INSURANCE
+Key/Value: OCCUR / 
+Key/Value: ANY ALITO / 
+Key/Value: INSURER C / 
+Key/Value: INILIRY (Per personl / 
+Key/Value: POLICY / 
+Key/Value: ACORD CORPORATION 1988 / 
+Key/Value: INSURER E / 
+Key/Value: PRODUCTS COMPOOR AGG / 000,000
+Key/Value: HRED AUITOS / 
+Key/Value: PROPERTTY DAMAGE (Por acoident / 
+Key/Value: LoC / 
+Key/Value: BODL INJURY (Por acodent / 
+Key/Value: INSURER A / ABC INSURANCE
+Key/Value: GENERAL AGGREGATE / 2,000,000
+Key/Value: AUTO ONLY EA ACODENT / 
+Key/Value: COMBINED SINGLE LIMT VEg acodent / 1,000,000
+Key/Value: PERSONAL INJURY / 1,000,000
+Key/Value: EXF (Any One Peesony / 5,000
+Key/Value: Hired Auto Phynical / 
+Key/Value: OCCUR / 
+Key/Value: DATE THE ISSUING INSURER WILL ENDEAVOR TO MAIL / 10
+Key/Value: CERTIFICATE HOLDER / 
+Key/Value: CLAIMS MADE / 
+Line: DATE IMIMDDTTY
+Line: ACORD,. CERTIFICATE OF LIABILITY INSURANCE
+Line: PRODUCER
+Line: THIS CERTIFICATE ISSUED AS A MATTER OF INFORMATION
+Line: Taylor Taylor, Ltd.
+Line: ONLY AND CONFERS NO RIGHTS UPON THE CERTIFICATE
+Line: Taylor Taylor Associates, Inc.
+Line: HOLDER THIS CERTIFICATE DOES NO AMEND EXTEND OR
+Line: 16 East 40th Street, 11th Floor
+Line: ALTER THE COVERAGE AFFORDED BY THE POLICIES BELOW
+Line: New York, New York 10016
+Line: Phone: (212)490-8511
+Line: INSURERS AFFORDING COVERAGE
+Line: INSURED
+Line: INSURER A
+Line: PRODUCTIO COMPANY USA
+Line: ABC INSURANCE
+Line: INSURER
+Line: XYZ INSURANCE
+Line: 1 MAIN STRBET
+Line: INSURER C
+Line: WASHINGTON, DC
+Line: INSURER D
+Line: INSURER E
+Line: COVERAGES
+Line: THE ICIER OF INSURANCE LISTED Low HAVE BEEN ISSLIFD TO THE INSURLD NAMED ABOVE FOR THE POLIC PERIOD INDICATED NOTWITHS TANDING
+Line: ANY REQUIREMENT TERM OR CONDITION OF ANY CONTRACT OR OTHER DOCUMENT WITH RESPECT TO WHICH THIS CERTIFICATE MAY BE ISSUED OR
+Line: MAY PERTAIN, THE INSURANCE AFFORDED BY THE POLICIES DESCRIBED HEREIN SUBJECT TO ALL THE TERMS EXCLUSIONS AND CONDITION OF SUCH
+Line: POLICIES, AGGREGATE LIMITS SHOWN MAY HAVE BEEN REDUCED BY PAID AIMS
+Line: INSR
+Line: TYPE OF INSURANCE
+Line: POLICY NUMIER
+Line: POLICY EFFECTIVE POLICY EXPRATION
+Line: DATE (MMDDO
+Line: DATE
+Line: LIMTS
+Line: GENERAL LIABILIT
+Line: 11111
+Line: 1/1/
+Line: 1/1/
+Line: EACHOCCURRENCE
+Line: 1,000,000
+Line: A
+Line: COMMERCIAD GENERAL LABILITY
+Line: FIRg DAMAGI Am Qne Fiel
+Line: 50,000
+Line: CLAIMS MADE
+Line: OCCUR
+Line: EXF (Any One Peesony
+Line: 5,000
+Line: PERSONAL INJURY
+Line: 1,000,000
+Line: GENERAL AGGREGATE
+Line: GUNL AGEGREGATE LIMIT APPLES P
+Line: 2,000,000
+Line: PRO
+Line: PRODUCTS COMPOOR AGG
+Line: 000,000
+Line: POLICY
+Line: JFCT
+Line: LoC
+Line: AUTOMOBL LABILITY
+Line: 22222
+Line: 1/1/
+Line: 1/1/
+Line: COMBINED SINGLE LIMT
+Line: A
+Line: ANY ALITO
+Line: VEg acodent
+Line: 1,000,000
+Line: AL OWINED AUTOS
+Line: INILIRY
+Line: SCHEOL AUTOS
+Line: (Per personl
+Line: HRED AUITOS
+Line: BODL INJURY
+Line: NON-OWINED A AUTOS
+Line: (Por acodent
+Line: Hired Auto Phynical Damage s
+Line: Limit Per Auto
+Line: PROPERTTY DAMAGE
+Line: (If the cavarage included under the M
+Line: ise. Equipmant it
+Line: (Por acoident
+Line: GARAGE Hould read as follows:' Misc. Equipment includes
+Line: AUTO ONLY EA ACODENT
+Line: Physical Damage to Automobiles Produetion Vdhicles.
+Line: OTHER THAN
+Line: BAACC
+Line: ONE
+Line: EXCESS LMABILITY
+Line: EACH OCCURRENCE
+Line: s
+Line: OCCUR
+Line: CLAIMES MADE
+Line: AOOREGATE
+Line: s
+Line: s
+Line: DEDUCTIBLE
+Line: s
+Line: RETENTION
+Line: s
+Line: s
+Line: WORKERS COMPENSA AND
+Line: WCSTATU
+Line: A
+Line: EMPLOYERS LABILITY
+Line: 33333
+Line: 1/1/
+Line: 1/1/
+Line: LIMIIS
+Line: ER
+Line: ACCIDENT
+Line: 100,000
+Line: DISEASE EMPLOYEE
+Line: 100,000
+Line: DISEASE POLICY LMIT
+Line: 500,000
+Line: B
+Line: OTHER
+Line: Miscellaneous Equipment
+Line: Special Entertainment Policy 44444
+Line: 1/1/
+Line: 1/1/
+Line: $500,000 (Special Form or
+Line: Entertainment Policy
+Line: All Risk Form Including
+Line: DICE Policy
+Line: Earthquake and Flood,
+Line: Renlacement Cost on
+Line: DESCRIPTION SEXCLUSIONS ADDED BY ENDORSEMENTISI PROVISIONS
+Line: Equipment and Actual Cash
+Line: The certificate holder is included as Additional Insured with
+Line: Value on Autos and
+Line: respecta to the General Liability Policy and as Loss Payee
+Line: Productio Vehicles,
+Line: with respects to Miscellaneous Equipment &/or Vehicles)
+Line: Worldwide) s
+Line: Deductible
+Line: Third Party Property Damage
+Line: $250,000, s
+Line: Deductible
+Line: CERTIFICATE HOLDER
+Line: ADDITIONAL INSURED INSURER
+Line: CANCELLATION
+Line: ISHOULD ANY of THE ABOVE DESCRIBED POUCIES BE CANCELLED BEFORE THE EXPIRATION
+Line: Lighting Services, Inc.
+Line: 800 Jason St.
+Line: DATE THE ISSUING INSURER WILL ENDEAVOR TO MAIL
+Line: 10
+Line: DAYS WRITTEN
+Line: Denver co 80223
+Line: NOTICE TO THE CERTIFICATE HOLDER NAMED TO THE LEFT BUT FAILURE TO DO sO SHALL
+Line: IMPOSE NO OBLIGATION OR LIABLITY Of ANY UPON THE INSURER, IS AGENTS OR
+Line: REPRESENTAT ATIVES
+Line: AUTHORIZED REPRESENTATIVE
+Line: ACORD 25-S (7/97)
+Line: ACORD CORPORATION 1988
+Cell: INSR
+Cell: TYPE OF INSURANCE
+Cell: POLICY NUMIER
+Cell: POLICY EFFECTIVE DATE (MMDDO
+Cell: POLICY EXPRATION DATE
+Cell: LIMTS
+Cell: A
+Cell: GENERAL LIABILIT COMMERCIAD GENERAL LABILITY CLAIMS MADE OCCUR GUNL AGEGREGATE LIMIT APPLES P PRO POLICY JFCT LoC
+Cell: 11111
+Cell: 1/1/
+Cell: 1/1/
+Cell: EACHOCCURRENCE FIRg DAMAGI Am Qne Fiel EXF (Any One Peesony PERSONAL INJURY GENERAL AGGREGATE PRODUCTS COMPOOR AGG
+Cell: 1,000,000 50,000 5,000 1,000,000 2,000,000 000,000
+Cell: A
+Cell: AUTOMOBL LABILITY ANY ALITO AL OWINED AUTOS SCHEOL AUTOS HRED AUITOS NON-OWINED A AUTOS
+Cell: 22222
+Cell: 1/1/
+Cell: 1/1/
+Cell: COMBINED SINGLE LIMT VEg acodent INILIRY (Per personl BODL INJURY (Por acodent
+Cell: 1,000,000
+Cell: Hired Auto Phynical (If the cavarage
+Cell: Damage s included under the M
+Cell: Limit Per Auto ise. Equipmant
+Cell: it
+Cell: PROPERTTY DAMAGE (Por acoident
+Cell: GARAGE Hould read Physical Damage
+Cell: as follows:' Misc. to Automobiles
+Cell: Equipment includes Produetion
+Cell: Vdhicles.
+Cell: AUTO ONLY EA ACODENT OTHER THAN BAACC ONE
+Cell: EXCESS LMABILITY OCCUR CLAIMES MADE DEDUCTIBLE RETENTION s
+Cell: EACH OCCURRENCE AOOREGATE
+Cell: s s s s s
+Cell: A
+Cell: WORKERS COMPENSA AND EMPLOYERS LABILITY
+Cell: 33333
+Cell: 1/1/
+Cell: 1/1/
+Cell: WCSTATU LIMIIS ER
+Cell: ACCIDENT DISEASE EMPLOYEE DISEASE POLICY LMIT
+Cell: 100,000 100,000 500,000
+Cell: B
+Cell: OTHER Special Entertainment Entertainment Policy DICE Policy
+Cell: Policy 44444
+Cell: 1/1/
+Cell: 1/1/
+Cell: Miscellaneous $500,000 (Special All Risk Form Earthquake and Renlacement Cost
+Cell: Equipment Form or Including Flood,

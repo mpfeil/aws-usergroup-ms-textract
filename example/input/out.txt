@@ -1,0 +1,149 @@
+  
+
+‘a Employee's social security number
+123-45-6789
+
+b Employer identification number (EIN)
+11-2233445
+
+ 
+
+ 
+
+ 
+
+Safe, accurate,
+OMB No. 1545-0008 FAST! Use
+
+  
+
+ 
+
+¢ Employer's name, address, and ZIP code
+
+The Big Company
+123 Main Street
+Anywhere, PA 12345
+
+‘3 Social security wages
+
++ file
+7 Wages, tips, other compensation] 2 Federal income tax withheld
+48,500.00 6,835.00
+
+Visit the IRS website at
+www irs.gov/efile
+
+4 Social security tax withheld
+
+ 
+
+ 
+
+50,000.00 3,100.00
+5 Medicare wages and tips 6 Medicare tax withheld
+50,000.00 725.00
+7 Social security tips 8 Allocated tips
+
+ 
+
+ 
+
+f Employee's address and ZIP code
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+d Control number At Bo 9 10 Dependent care benefits
+‘e Employee's first name and initial Last name Suff.| 11 Nonqualified plans 42a See instructions for box 12
+JaneA DOE tm  _ 2 |
+123 Elm Street ae rx ae i DD 1,000.00
+Anywhere Else, PA 23456 14 Other 126
+P 4,800.00
+2d
+
+ 
+
+ 
+
+ 
+
+15 State Employer's state ID number
+
+1235
+
+16 State wages, tips, etc.
+
+50,000
+
+ 
+
+ 
+
+ 
+
+17 State income tax
+
+1,535
+
+18 Local wages, tips, etc.
+
+50,000
+
+ 
+
+ 
+
+ 
+
+20 Locality name|
+
+MU
+
+ 
+
+ 
+
+Wage and Tax
+
+|
+com WY 2 Statement
+
+Copy B—To Be Filed With Employee’s FEDERAL Tax Return.
+This information is being furnished to the Internal Revenue Service.
+
+e014
+
+Department of the Treasury—Internal Revenue Service
+
+ 
+

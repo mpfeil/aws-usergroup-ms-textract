@@ -1,0 +1,114 @@
+Key/Value: 3 Social security wages / 50,000.00
+Key/Value: a Employee's social security number / 123-45-6789
+Key/Value: 2 Federal income tax withheld / 6,835.00
+Key/Value: 1 Wages, tips other compensation / 48,500.00
+Key/Value: 4 Social security tax withheld / 3,100.00
+Key/Value: 14 Other / 
+Key/Value: 5 Medicare wages and tips / 50,000.00
+Key/Value: 6 Medicare tax withheld / 725.00
+Key/Value: 7 Social security tips / 
+Key/Value: b Employer identification number (EIN) / 11-2233445
+Key/Value: d Control number / A1B2
+Key/Value: 10 Dependent care benefits / 
+Key/Value: 12a See instructions for box 12 / 1,500.00
+Key/Value: 8 Allocated tips / 
+Key/Value: 11 Nonqualified plans / 
+Key/Value: c Employer's name, address, and ZIP code / The Big Company 123 Main Street Anywhere, PA 12345
+Key/Value: Third-party sick pay / 
+Key/Value: 16 State wages, tips, etc. / 50,000
+Key/Value: 9 / 
+Key/Value: 12b / 1,000.00
+Key/Value: 12d / 
+Key/Value: 12c / 4,800.00
+Key/Value: 17 State income tax / 1,535
+Key/Value: 20 Locality name / MU
+Key/Value: Employer's state ID number / 1235
+Key/Value: 18 Local wages, tips, etc. / 50,000
+Key/Value: Last name / 123 EIm Street Anywhere Else, PA 23456
+Key/Value: 19 Local income tax / 750
+Key/Value: Statutory employee / 
+Line: a Employee's social security number
+Line: Safe, accurate,
+Line: Visit the IRS website at
+Line: 123-45-6789
+Line: OMB No. 1545-0008
+Line: FAST! Use
+Line: file
+Line: www.irs.gov/efile
+Line: b Employer identification number (EIN)
+Line: 1 Wages, tips other compensation
+Line: 2 Federal income tax withheld
+Line: 11-2233445
+Line: 48,500.00
+Line: 6,835.00
+Line: c Employer's name, address, and ZIP code
+Line: 3 Social security wages
+Line: 4 Social security tax withheld
+Line: 50,000.00
+Line: 3,100.00
+Line: The Big Company
+Line: 5 Medicare wages and tips
+Line: 6 Medicare tax withheld
+Line: 123 Main Street
+Line: 50,000.00
+Line: 725.00
+Line: Anywhere, PA 12345
+Line: 7 Social security tips
+Line: 8 Allocated tips
+Line: d Control number
+Line: 9
+Line: A1B2
+Line: 10 Dependent care benefits
+Line: e Employee's first name and initial
+Line: Last name
+Line: Suff.
+Line: 11 Nonqualified plans
+Line: 12a See instructions for box 12
+Line: Jane A
+Line: DOE
+Line: 1,500.00
+Line: 13 Statutory
+Line: Retirement
+Line: Third-party
+Line: 123 EIm Street
+Line: employee
+Line: plan
+Line: sick pay
+Line: 12b
+Line: DD
+Line: 1,000.00
+Line: Anywhere Else, PA 23456
+Line: 14 Other
+Line: 12c
+Line: 4,800.00
+Line: 12d
+Line: f Employee's address and ZIP code
+Line: 15 State
+Line: Employer's state ID number
+Line: 16 State wages, tips, etc.
+Line: 17 State income tax
+Line: 18 Local wages, tips, etc.
+Line: 19 Local income tax
+Line: 20 Locality name
+Line: PA
+Line: 1235
+Line: 50,000
+Line: 1,535
+Line: 50,000
+Line: 750
+Line: MU
+Line: Form
+Line: W-2
+Line: Wage and Tax
+Line: Department of the Treasury - Internal Revenue Service
+Line: Statement
+Line: 2014
+Line: Copy B - To Be Filed With Employee's FEDERAL Tax Return.
+Line: This information is being furnished to the Internal Revenue Service.
+Cell: 15 State PA
+Cell: Employer's state ID number 1235
+Cell: 16 State wages, tips, etc. 50,000
+Cell: 17 State income tax 1,535
+Cell: 18 Local wages, tips, etc. 50,000
+Cell: 19 Local income tax 750
+Cell: 20 Locality name MU
