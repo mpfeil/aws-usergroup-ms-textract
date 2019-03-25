@@ -4,7 +4,8 @@ Talk about Textract for AWS Usergroup Münsterland
 Presentation is made with [cleaver](https://github.com/jdan/cleaver).
 
 Run `npm run build` to build the presentation. You will find the presentation with the name `intro.html` inside the root folder.
-Or just open up `intro.html` in your browser.
+
+Or just download this repository as zip file, extact it and open up `intro.html` in your browser.
 
 Checkout the `example` folder a simple textract example.
 To run the example you need:
